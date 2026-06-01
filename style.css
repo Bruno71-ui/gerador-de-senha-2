@@ -90,3 +90,9 @@ body{
         flex-direction: row;
     }
 }
+.parametro-senha_botão{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 24px;
+}
